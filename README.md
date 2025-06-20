@@ -30,3 +30,4 @@ To build a secure, accessible, and transparent voting platform using smart contr
 - **Chain ID**: 1114
 - **Compiler Version**: 0.8.17
 - **Deployment Tool**: Hardhat
+![image](https://github.com/user-attachments/assets/ab70eba7-9084-425d-a713-445aa6f9809b)
