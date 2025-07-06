@@ -25,7 +25,7 @@ To build a secure, accessible, and transparent voting platform using smart contr
 
 ## Contract Details
 
-- **Contract Address**: *[To be filled manually by Judy]*
+- **Contract Address**:0x31B9bb16a2a815d7C3077ae043F14d2C4F079239
 - **Network**: Core Blockchain Testnet
 - **Chain ID**: 1114
 - **Compiler Version**: 0.8.17
